@@ -3,10 +3,10 @@
 ----------------
 <a name="RelatedLatex"></a>
 <details>
-    <summary>لاتک</summary>
+    <summary>تایپ لاتک من</summary>
   
 > ## لاتک
-- [لاتک از صفحات 229 تا 232](https://github.com/zahramahan/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/Latex/%D8%B2%D9%87%D8%B1%D8%A7%20%D9%85%D8%A7%D9%87%D8%A7%D9%86_%D9%84%D8%A7%D8%AA%DA%A9(229-232).tex)
+- [لاتک از صفحات 45 الی 48](https://github.com/mrezabasiri/pnu99taklif/blob/main/5448man.tex)
 - [فایل pdf](https://github.com/mrezabasiri/pnu99taklif/blob/main/5448man.pdf)
 
 [<kbd>↩</kbd>](#TOC)
