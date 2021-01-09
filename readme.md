@@ -17,9 +17,9 @@
 <details>
    <summary>بیمر</summary> 
     
-  > ##  لاتک با قالب بیمر 
-  - [Power(229-232).latex](https://github.com/zahramahan/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/Latex/%D8%B2%D9%87%D8%B1%D8%A7%20%D9%85%D8%A7%D9%87%D8%A7%D9%86_Power(229-232).tex)
-  - [Power(229-232).pdf](https://github.com/mrezabasiri/pnu99taklif/blob/main/beamer%20man/beamer.pdf)
+  > ##   ارائه لاتکس من با قالب بیمر صفحات 45 و 46 کتاب مرفی شده برای تایپ  
+  - [Power(45.46).latex](https://github.com/mrezabasiri/pnu99taklif/blob/main/beamer%20man/beamer.tex)
+  - [Power(45.46).pdf](https://github.com/mrezabasiri/pnu99taklif/blob/main/beamer%20man/beamer.pdf)
   
   [<kbd>↩</kbd>](#TOC)
 </details>
